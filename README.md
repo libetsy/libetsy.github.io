@@ -1,2 +1,2 @@
 # libetsy.github.io
- Portfolio
+ Portfolio - This is a generic webpage to display projects
